@@ -68,6 +68,7 @@ include(Utilities)
 include(Macros)
 include(CMakeDependentOption)
 include(CheckCCompilerFlag)
+include(CheckTypeSize)
 
 project(CURL C)
 
